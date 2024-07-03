@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Masoumeh-Ava
 - 👀 I’m interested in Computational physics and simulation
-- 🌱 I’m currently learning phyton and DFT
+- 🌱 I’m currently developing my skill in phyton and DFT
 - 📫 How to reach me: M.avarideh@gamil.com ...
 
 
