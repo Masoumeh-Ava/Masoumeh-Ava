@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Masoumeh-Ava
-- 👀 I’m interested in Computational physics and simulation
+- 👀 I'm interested in Analytical and Computational condensed matter physics
+- ✨ Also I am Curious about simulation in physics
 - 🌱 I’m currently developing my skill in phyton and DFT
 - 📫 How to reach me: M.avarideh@gamil.com ...
 
